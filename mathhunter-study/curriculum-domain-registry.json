@@ -1,0 +1,100 @@
+{
+  "fieldName": "curriculumDomain",
+  "framework": "2022 개정 수학과 교육과정",
+  "gradeBand": "초등학교 1∼2학년",
+  "domains": {
+    "numberOperations": {
+      "name": "수와 연산",
+      "pdfPages": [
+        17
+      ]
+    },
+    "changeRelationships": {
+      "name": "변화와 관계",
+      "pdfPages": [
+        19
+      ]
+    },
+    "geometryMeasurement": {
+      "name": "도형과 측정",
+      "pdfPages": [
+        19,
+        20,
+        21
+      ]
+    },
+    "dataProbability": {
+      "name": "자료와 가능성",
+      "pdfPages": [
+        21,
+        22
+      ]
+    }
+  },
+  "achievementCriteria": {
+    "2수01-01": {
+      "domain": "numberOperations",
+      "pdfPage": 17,
+      "topic": "0과 100까지의 수 개념, 세기·읽기·쓰기"
+    },
+    "2수01-02": {
+      "domain": "numberOperations",
+      "pdfPage": 17,
+      "topic": "자릿값과 위치적 기수법"
+    },
+    "2수01-03": {
+      "domain": "numberOperations",
+      "pdfPage": 17,
+      "topic": "수의 계열과 크기 비교"
+    },
+    "2수01-04": {
+      "domain": "numberOperations",
+      "pdfPage": 17,
+      "topic": "수의 분해와 합성"
+    },
+    "2수01-05": {
+      "domain": "numberOperations",
+      "pdfPage": 17,
+      "topic": "실생활 덧셈·뺄셈의 의미"
+    },
+    "2수01-06": {
+      "domain": "numberOperations",
+      "pdfPage": 17,
+      "topic": "두 자리 수 범위의 덧셈·뺄셈 계산 원리"
+    },
+    "2수01-07": {
+      "domain": "numberOperations",
+      "pdfPage": 17,
+      "topic": "덧셈과 뺄셈의 관계"
+    },
+    "2수01-09": {
+      "domain": "numberOperations",
+      "pdfPage": 17,
+      "topic": "□가 사용된 덧셈식·뺄셈식과 미지수"
+    },
+    "2수02-01": {
+      "domain": "changeRelationships",
+      "pdfPage": 19,
+      "topic": "물체·무늬·수 배열의 규칙"
+    },
+    "2수03-01": {
+      "domain": "geometryMeasurement",
+      "pdfPage": 19,
+      "topic": "생활 주변의 직육면체·원기둥·구 모양"
+    },
+    "2수03-02": {
+      "domain": "geometryMeasurement",
+      "pdfPage": 19,
+      "topic": "쌓기나무 모양과 위치·방향"
+    },
+    "2수03-06": {
+      "domain": "geometryMeasurement",
+      "pdfPage": 20,
+      "topic": "길이·들이·무게·넓이 비교"
+    }
+  },
+  "sourcePdf": "D:\\0. 참고서\\초등 교과서\\22 [별책8] 수학과 교육과정.pdf",
+  "sourceSha256": "dd7dff3392f907db0aca3f550c9bb5a6144af62284225784c70ba2f0a13151ab",
+  "mappingStatus": "PRELIMINARY_NOT_TEACHER_APPROVED",
+  "note": "국가 교육과정은 학년군 기준이다. 본 자료의 1학년 1학기 단원 배치는 원본 문제풀의 구성을 따른다."
+}
